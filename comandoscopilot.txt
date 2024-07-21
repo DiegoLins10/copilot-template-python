@@ -1,0 +1,7 @@
+## comandos copilot
+
+pressionar crtl + enter abre a barra de sugestões.
+
+/testes para pesquisar algo especifico de testes
+
+@workspace para ele analisar sua solução.
